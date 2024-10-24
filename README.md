@@ -16,4 +16,4 @@ IDAM-Google is a Spring Boot application that integrates with Google APIs to aut
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/your-repo/idam-google.git
-   cd idam-google
+   cd idam-google[README.md](README.md)
